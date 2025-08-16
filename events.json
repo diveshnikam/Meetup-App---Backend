@@ -1,0 +1,411 @@
+[
+  {
+    "title": "AI & Machine Learning Summit",
+    "category": "Technology",
+    "type": "offline",
+    "date": "2025-12-05T09:30:00+05:30",
+    "endDate": "2025-12-05T17:00:00+05:30",
+    "price": 1500,
+    "isFree": false,
+    "venue": {
+      "name": "TechSphere Auditorium",
+      "address": "Powai, Mumbai, Maharashtra"
+    },
+    "imageThumb": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755097685/AI_Thumnail_mvnotr.jpg",
+    "imageCover": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755098996/AI_COVER_lq3i9r.jpg",
+    "host": "ML Innovators India",
+    "description": "Deep dives into neural networks, NLP, MLOps, and real-world AI case studies tailored to the Indian ecosystem.",
+    "additionalInfo": {
+      "dressCode": "Business casual",
+      "ageRestrictions": "18+"
+    },
+    "tags": ["AI", "Machine Learning", "MLOps", "Data"],
+    "speakers": [
+      {
+        "name": "Ravi Kumar",
+        "title": "Senior AI Researcher",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755099512/AI_SPEKAER_RAVI_m2zudn.jpg"
+      },
+      {
+        "name": "Nisha Verma",
+        "title": "ML Engineer",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755099753/AI_SPEAKER_NISHA_k7bruq.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Startup & Entrepreneurship Conference",
+    "category": "Business",
+    "type": "online",
+    "date": "2025-12-12T10:00:00+05:30",
+    "endDate": "2025-12-12T17:30:00+05:30",
+    "price": 0,
+    "isFree": true,
+    "venue": {
+      "name": "Online (Zoom Webinar)",
+      "address": "Link will be sent to registered participants"
+    },
+    "imageThumb": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755108506/Startup_thumnail_sdalsk.jpg",
+    "imageCover": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755108765/Startup_Cover_idind5.jpg",
+    "host": "Young Entrepreneurs India",
+    "description": "A full-day online gathering of India's brightest startup founders, investors, and ecosystem enablers. Join from anywhere to network, attend panel discussions, and watch live pitch sessions.",
+    "additionalInfo": {
+      "dressCode": "Business formal",
+      "ageRestrictions": "18+"
+    },
+    "tags": ["Startups", "Entrepreneurship", "Funding", "Networking"],
+    "speakers": [
+      {
+        "name": "Ankit Sharma",
+        "title": "Founder & CEO, Innoventures",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755109074/startup_speaker_man_mdav2g.jpg"
+      },
+      {
+        "name": "Priya Malhotra",
+        "title": "Venture Capital Partner",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755109150/startup_speaker_ankita_nfrcpl.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Future of Renewable Energy Expo",
+    "category": "Environment",
+    "type": "offline",
+    "date": "2026-01-25T09:00:00+05:30",
+    "endDate": "2026-01-25T18:00:00+05:30",
+    "price": 800,
+    "isFree": false,
+    "venue": {
+      "name": "India Habitat Centre",
+      "address": "Lodhi Road, New Delhi, Delhi"
+    },
+    "imageThumb": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755110303/renewable_thumnail_rw61mt.jpg",
+    "imageCover": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755110302/renewable_cover_j2smiv.jpg",
+    "host": "Clean Energy India",
+    "description": "Showcasing the latest advancements in solar, wind, and bioenergy technologies from Indian innovators.",
+    "additionalInfo": {
+      "dressCode": "Formal",
+      "ageRestrictions": "16+"
+    },
+    "tags": ["Renewable Energy", "Solar", "Wind", "Bioenergy"],
+    "speakers": [
+      {
+        "name": "Amit Joshi",
+        "title": "Renewable Energy Consultant",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755110303/renwable_speaker_boy_atyua9.webp"
+      },
+      {
+        "name": "Shreya Banerjee",
+        "title": "Sustainability Advocate",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755110304/renwable_speaker_girl_kj6jti.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Indian Food & Culture Festival",
+    "category": "Food & Lifestyle",
+    "type": "offline",
+    "date": "2026-01-15T11:00:00+05:30",
+    "endDate": "2026-01-15T20:00:00+05:30",
+    "price": 0,
+    "isFree": true,
+    "venue": {
+      "name": "Maidan Grounds",
+      "address": "Esplanade, Kolkata, West Bengal"
+    },
+    "imageThumb": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755111204/indian_food_thumnail_mrmqob.webp",
+    "imageCover": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755111200/indian_food_cover_cwrjck.jpg",
+    "host": "Kolkata Culture Collective",
+    "description": "A celebration of India's diverse culinary traditions, music, dance, and cultural heritage, bringing together artisans and chefs from across the country.",
+    "additionalInfo": {
+      "dressCode": "Traditional or casual",
+      "ageRestrictions": "All ages welcome"
+    },
+    "tags": ["Food", "Culture", "Festival", "Music", "Dance"],
+    "speakers": [
+      {
+        "name": "Chef Arjun Kapoor",
+        "title": "Celebrity Chef",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755111199/india_food_speaker_arjun_qpwctm.avif"
+      },
+      {
+        "name": "Ritika Sharma",
+        "title": "Cultural Historian",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755111201/indian_food_speaker_girl_ibkjsn.avif"
+      }
+    ]
+  },
+  {
+    "title": "Digital Marketing Masterclass 2026",
+    "category": "Business & Marketing",
+    "type": "online",
+    "date": "2026-01-22T10:00:00+05:30",
+    "endDate": "2026-01-22T13:00:00+05:30",
+    "price": 1200,
+    "isFree": false,
+    "venue": {
+      "name": "Online - Zoom",
+      "address": "Virtual Event (Zoom Link will be shared after registration)"
+    },
+    "imageThumb": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755112075/digital_thumnail_mjoetl.jpg",
+    "imageCover": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755112070/digital_cover_zkynha.webp",
+    "host": "Marketing Minds India",
+    "description": "Learn cutting-edge digital marketing strategies, SEO trends, and social media growth hacks from industry experts to scale your brand in 2026.",
+    "additionalInfo": {
+      "dressCode": "Casual",
+      "ageRestrictions": "16+"
+    },
+    "tags": ["Digital Marketing", "SEO", "Social Media", "Online Business"],
+    "speakers": [
+      {
+        "name": "Ananya Gupta",
+        "title": "SEO & Content Strategist",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755112072/digital_speaker_girl_tvmu1u.webp"
+      },
+      {
+        "name": "Karan Mehta",
+        "title": "Social Media Growth Expert",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755112070/digital_speaker_boy_mj3sw9.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Cybersecurity Essentials Bootcamp",
+    "category": "Cybersecurity",
+    "type": "online",
+    "date": "2026-01-28T19:00:00+05:30",
+    "endDate": "2026-01-28T21:00:00+05:30",
+    "price": 0,
+    "isFree": true,
+    "venue": {
+      "name": "Online - Google Meet",
+      "address": "Link will be sent after registration"
+    },
+    "imageThumb": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755113410/cyber_thumnail_q5dhkl.jpg",
+    "imageCover": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755113404/cyber_cover_bmksbf.jpg",
+    "host": "Secure India Collective",
+    "description": "Hands-on bootcamp covering phishing defense, secure passwords, 2FA, and practical checklists for teams and startups.",
+    "additionalInfo": {
+      "dressCode": "Casual",
+      "ageRestrictions": "15+"
+    },
+    "tags": ["Cybersecurity", "Privacy", "Best Practices", "Training"],
+    "speakers": [
+      {
+        "name": "Sanjay Iyer",
+        "title": "Security Architect",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755113405/cyber_speaker_boy_hcvlqy.avif"
+      },
+      {
+        "name": "Meera Nandini",
+        "title": "Cyber Risk Analyst",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755113406/cyber_speaker_girl_msn4tq.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Photography & Visual Storytelling Workshop",
+    "category": "Arts & Creativity",
+    "type": "offline",
+    "date": "2026-02-05T14:00:00+05:30",
+    "endDate": "2026-02-05T18:30:00+05:30",
+    "price": 600,
+    "isFree": false,
+    "venue": {
+      "name": "Kala Academy Studio",
+      "address": "Campal, Panaji, Goa"
+    },
+    "imageThumb": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755115511/photography_thumnail_xd8xf7.jpg",
+    "imageCover": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755115505/photo_cover_mqsngl.jpg",
+    "host": "Creative Lens India",
+    "description": "A hands-on photography session covering composition, lighting, portrait photography, and editing techniques, designed for beginners and enthusiasts.",
+    "additionalInfo": {
+      "dressCode": "Casual",
+      "ageRestrictions": "14+"
+    },
+    "tags": ["Photography", "Storytelling", "Editing", "Arts"],
+    "speakers": [
+      {
+        "name": "Rohit Sen",
+        "title": "Travel & Portrait Photographer",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755115506/photo_speaker_boy_wfszft.webp"
+      },
+      {
+        "name": "Neha Bhandari",
+        "title": "Visual Artist & Storyteller",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755115508/photo_speaker_girl_x2x0ln.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Wellness & Mindfulness Retreat",
+    "category": "Health & Wellness",
+    "type": "offline",
+    "date": "2026-02-20T07:00:00+05:30",
+    "endDate": "2026-02-20T18:00:00+05:30",
+    "price": 0,
+    "isFree": true,
+    "venue": {
+      "name": "Himalayan Eco Resort",
+      "address": "Rishikesh, Uttarakhand"
+    },
+    "imageThumb": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755116514/wellness_thumbnail_pbd7ha.jpg",
+    "imageCover": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755116515/welnees_cover_skpk5s.png",
+    "host": "Mindful Living Collective",
+    "description": "A full-day wellness escape in the serene Himalayan foothills with guided yoga, meditation, and nutrition workshops.",
+    "additionalInfo": {
+      "dressCode": "Comfortable activewear",
+      "ageRestrictions": "16+"
+    },
+    "tags": ["Wellness", "Mindfulness", "Yoga", "Meditation"],
+    "speakers": [
+      {
+        "name": "Dr. Sandeep Rao",
+        "title": "Yoga & Meditation Coach",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755116515/welness_speaker_boy_eex7u4.jpg"
+      },
+      {
+        "name": "Isha Patel",
+        "title": "Holistic Nutritionist",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755116518/welnesss_speaker_girl_cqvbq3.webp"
+      }
+    ]
+  },
+  {
+    "title": "Space Exploration & Astronomy Summit",
+    "category": "Science & Technology",
+    "type": "online",
+    "date": "2026-03-20T18:00:00+05:30",
+    "endDate": "2026-03-20T21:00:00+05:30",
+    "price": 0,
+    "isFree": true,
+    "venue": {
+      "name": "Online Event",
+      "address": "Link will be sent after registration"
+    },
+    "imageThumb": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755184362/space_thumnail_wp18zl.jpg",
+    "imageCover": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755184356/space_cover_tiwkwi.jpg",
+    "host": "Indian Astronomical Society",
+    "description": "Join leading astronomers, scientists, and space enthusiasts for an interactive evening on the future of space travel, Mars colonization, and telescope discoveries.",
+    "additionalInfo": {
+      "dressCode": "Casual",
+      "ageRestrictions": "12+"
+    },
+    "tags": ["Astronomy", "Space Exploration", "Science", "Mars"],
+    "speakers": [
+      {
+        "name": "Dr. Arvind Narayan",
+        "title": "Astrophysicist, ISRO",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755184358/space_speaker_narayan_r9gdln.jpg"
+      },
+      {
+        "name": "Riya Sen",
+        "title": "Planetary Scientist",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755184356/space_girl_s3nffl.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Himalayan Adventure & Trekking Expo",
+    "category": "Sports & Adventure",
+    "type": "offline",
+    "date": "2026-03-10T08:00:00+05:30",
+    "endDate": "2026-03-10T18:00:00+05:30",
+    "price": 2500,
+    "isFree": false,
+    "venue": {
+      "name": "India International Convention Centre",
+      "address": "Pragati Maidan, New Delhi, Delhi"
+    },
+    "imageThumb": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755195055/him_thumbnail_nlgs4z.jpg",
+    "imageCover": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755195048/him_cover_gt2bbc.jpg",
+    "host": "Adventure Sports Federation of India",
+    "description": "Join mountaineers, trekkers, and outdoor brands for a day of exhibitions, gear demos, travel talks, and Himalayan expedition planning.",
+    "additionalInfo": {
+      "dressCode": "Comfortable outdoor wear",
+      "ageRestrictions": "12+"
+    },
+    "tags": ["Adventure", "Trekking", "Himalayas", "Outdoor"],
+    "speakers": [
+      {
+        "name": "Rohit Malhotra",
+        "title": "Mountaineer & Expedition Leader",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755195049/him_speaker_boy_s62w8b.avif"
+      },
+      {
+        "name": "Pooja Desai",
+        "title": "Adventure Travel Blogger",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755195051/him_speaker_girl_cdsnpj.jpg"
+      }
+    ]
+  },
+  {
+    "title": "India Esports & Gaming Expo 2026",
+    "category": "Entertainment & Gaming",
+    "type": "offline",
+    "date": "2026-04-05T10:00:00+05:30",
+    "endDate": "2026-04-05T20:00:00+05:30",
+    "price": 500,
+    "isFree": false,
+    "venue": {
+      "name": "Bombay Exhibition Centre",
+      "address": "Goregaon, Mumbai, Maharashtra"
+    },
+    "imageThumb": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755197184/game_thumnail_lhsj6x.jpg",
+    "imageCover": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755197179/game_cover_lmdehv.avif",
+    "host": "Gaming League India",
+    "description": "Experience India’s largest esports event with live tournaments, gaming tech showcases, VR experiences, and meet-and-greet sessions with top streamers.",
+    "additionalInfo": {
+      "dressCode": "Casual / Cosplay encouraged",
+      "ageRestrictions": "13+"
+    },
+    "tags": ["Esports", "Gaming", "VR", "Technology"],
+    "speakers": [
+      {
+        "name": "Rohan Malhotra",
+        "title": "Professional Gamer & Streamer",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755197183/game_spekaer_boy_rnmtsm.jpg"
+      },
+      {
+        "name": "Sneha Iyer",
+        "title": "Game Developer",
+        "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755197179/game_speaker_girl_g5pixt.jpg"
+      }
+    ]
+  },
+  {
+  "title": "Indian Art & Handicrafts Fair 2026",
+  "category": "Arts & Culture",
+  "type": "offline",
+  "date": "2026-04-20T10:00:00+05:30",
+  "endDate": "2026-04-20T19:00:00+05:30",
+  "price": 300,
+  "isFree": false,
+  "venue": {
+    "name": "Jawaharlal Nehru Stadium Grounds",
+    "address": "New Delhi, Delhi"
+  },
+  "imageThumb": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755239549/handi_thumnail_qfsvhp.jpg",
+  "imageCover": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755239543/handi_cover_kr6l6n.webp",
+  "host": "Indian Heritage Council",
+  "description": "A vibrant display of traditional and contemporary Indian arts, crafts, and textiles. Meet artisans, attend live workshops, and purchase unique handcrafted pieces.",
+  "additionalInfo": {
+    "dressCode": "Casual",
+    "ageRestrictions": "All ages welcome"
+  },
+  "tags": ["Art", "Handicrafts", "Culture", "Exhibition"],
+  "speakers": [
+    {
+      "name": "Anita Deshmukh",
+      "title": "Master Weaver",
+      "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755239545/handi_girl_speaker_am0czf.jpg"
+    },
+    {
+      "name": "Rajiv Menon",
+      "title": "Ceramic Artist",
+      "avatar": "https://res.cloudinary.com/di71zb4sb/image/upload/v1755239541/handi_boy_speaker_lwegfh.jpg"
+    }
+  ]
+}
+
+]
