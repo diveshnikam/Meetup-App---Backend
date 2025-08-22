@@ -23,11 +23,11 @@ const Event = require("./models/event.model");
 
 
 // Read mock data from a JSON file (used for seeding database)
-const fs = require("fs");
+//const fs = require("fs");
 
-const jsonData = fs.readFileSync("events.json", "utf-8");
+//const jsonData = fs.readFileSync("events.json", "utf-8");
 
-const eventsData = JSON.parse(jsonData);
+//const eventsData = JSON.parse(jsonData);
 
 
 // Import DB connection helper
@@ -39,7 +39,7 @@ initDatabse();
 
 // Seed sample event data into MongoDB (optional — run once to populate DB)
 
-const seedData = async () => {
+/*const seedData = async () => {
   try {
     for (const eventData of eventsData) {
       const newEvent = new Event({
@@ -65,7 +65,7 @@ const seedData = async () => {
   } catch (error) {
     console.log("Error Seeding Data", error);
   }
-};
+};*/
 
 //seedData()
 
